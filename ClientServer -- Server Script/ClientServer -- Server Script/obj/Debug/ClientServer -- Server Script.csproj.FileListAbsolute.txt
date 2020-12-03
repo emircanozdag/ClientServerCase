@@ -1,0 +1,7 @@
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\bin\Debug\ClientServer -- Server Script.exe.config
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\bin\Debug\ClientServer -- Server Script.exe
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\bin\Debug\ClientServer -- Server Script.pdb
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\obj\Debug\ClientServer -- Server Script.csprojAssemblyReference.cache
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\obj\Debug\ClientServer -- Server Script.csproj.CoreCompileInputs.cache
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\obj\Debug\ClientServer -- Server Script.exe
+C:\Users\emir.ozdag\source\repos\ClientServer -- Server Script\ClientServer -- Server Script\obj\Debug\ClientServer -- Server Script.pdb
